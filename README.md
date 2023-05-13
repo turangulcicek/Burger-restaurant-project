@@ -8,4 +8,4 @@ Htmel and Css
 
 <h2> Screen shot</h2>
 
-![](screen.gi)
+![](screen.gif)
